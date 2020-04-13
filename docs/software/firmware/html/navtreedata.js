@@ -39,7 +39,9 @@ var NAVTREE =
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", null ],
         [ "Functions", "functions_func.html", null ],
-        [ "Variables", "functions_vars.html", null ]
+        [ "Variables", "functions_vars.html", null ],
+        [ "Enumerations", "functions_enum.html", null ],
+        [ "Enumerator", "functions_eval.html", null ]
       ] ]
     ] ],
     [ "Files", "files.html", [
@@ -58,9 +60,9 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"alarm_8cpp.html",
-"class_pressure_valve.html#abce6dd9d0c01d24f0b65a7057e1997ca",
-"test__pression_8cpp.html#ab4525824fea76c5e7d6df9bfdda5b943"
+"activation_8cpp.html",
+"class_pressure_controller.html#ae8cc7a99380b07742774295ddbb9dbd2",
+"qualification_8cpp.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
